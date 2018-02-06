@@ -11,5 +11,8 @@
     "url": "https://www.github.com/rahisulhaque/ExpressJs"
   },
   "author": "Rahisul Haque",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
